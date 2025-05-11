@@ -1,0 +1,29 @@
+favicon: /assets/favicon.ico
+permalink: /:year/:month/:day/:title
+
+url: "https://alfaizakbar.github.io"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+site:
+  title: "Home"
+  favicon: "/assets/images/favicon.ico"
+  font: "https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap"
+  css: "/assets/css/styles.css"
+
+author:
+  first_name: "AL FAIZ AKBAR"
+  last_name: "THAIB"
+  greeting: "Hi there, my name is"
+  tagline:
+    - "Saya Adalah Seorang Mahasiswa Politeknik Jurusan Teknologi Informasi dan Komputer"
+    - "Saya Alumni SMKN 1 Lhokseumawe Jurusan Rekayasa Perangkat Lunak"
+    - "Cita Cita saya Ingin Menjadi Programmer"
+    - "Hobi saya Ngoding"
+
+
+
+
